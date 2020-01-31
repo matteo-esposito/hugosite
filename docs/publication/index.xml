@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | M.Esposito</title>
-    <link>https://matteo-esposito.github.io/hugosite/publication/</link>
-      <atom:link href="https://matteo-esposito.github.io/hugosite/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://matteo-esposito.github.io/publication/</link>
+      <atom:link href="https://matteo-esposito.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Matteo Esposito</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
-      <link>https://matteo-esposito.github.io/hugosite/publication/</link>
+      <link>https://matteo-esposito.github.io/publication/</link>
     </image>
     
   </channel>

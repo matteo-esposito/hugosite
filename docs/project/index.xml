@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | M.Esposito</title>
-    <link>https://matteo-esposito.github.io/hugosite/project/</link>
-      <atom:link href="https://matteo-esposito.github.io/hugosite/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://matteo-esposito.github.io/project/</link>
+      <atom:link href="https://matteo-esposito.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Matteo Esposito</copyright><lastBuildDate>Thu, 30 Jan 2020 20:45:52 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
-      <link>https://matteo-esposito.github.io/hugosite/project/</link>
+      <link>https://matteo-esposito.github.io/project/</link>
     </image>
     
     <item>
       <title>Leetcode</title>
-      <link>https://matteo-esposito.github.io/hugosite/project/leetcode/</link>
+      <link>https://matteo-esposito.github.io/project/leetcode/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:52 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/hugosite/project/leetcode/</guid>
+      <guid>https://matteo-esposito.github.io/project/leetcode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Webscrapers</title>
-      <link>https://matteo-esposito.github.io/hugosite/project/webscrapers/</link>
+      <link>https://matteo-esposito.github.io/project/webscrapers/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:36 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/hugosite/project/webscrapers/</guid>
+      <guid>https://matteo-esposito.github.io/project/webscrapers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gridworld Agent</title>
-      <link>https://matteo-esposito.github.io/hugosite/project/gridworld-agent/</link>
+      <link>https://matteo-esposito.github.io/project/gridworld-agent/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:23 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/hugosite/project/gridworld-agent/</guid>
+      <guid>https://matteo-esposito.github.io/project/gridworld-agent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desjardins Datacup</title>
-      <link>https://matteo-esposito.github.io/hugosite/project/desjardins-datacup/</link>
+      <link>https://matteo-esposito.github.io/project/desjardins-datacup/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:08 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/hugosite/project/desjardins-datacup/</guid>
+      <guid>https://matteo-esposito.github.io/project/desjardins-datacup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moodle Doc Downloader</title>
-      <link>https://matteo-esposito.github.io/hugosite/project/moodle-doc-downloader/</link>
+      <link>https://matteo-esposito.github.io/project/moodle-doc-downloader/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:00 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/hugosite/project/moodle-doc-downloader/</guid>
+      <guid>https://matteo-esposito.github.io/project/moodle-doc-downloader/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grade Fetcher</title>
-      <link>https://matteo-esposito.github.io/hugosite/project/grade-fetcher/</link>
+      <link>https://matteo-esposito.github.io/project/grade-fetcher/</link>
       <pubDate>Thu, 30 Jan 2020 20:44:51 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/hugosite/project/grade-fetcher/</guid>
+      <guid>https://matteo-esposito.github.io/project/grade-fetcher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project Euler</title>
-      <link>https://matteo-esposito.github.io/hugosite/project/project-euler/</link>
+      <link>https://matteo-esposito.github.io/project/project-euler/</link>
       <pubDate>Thu, 30 Jan 2020 20:33:18 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/hugosite/project/project-euler/</guid>
+      <guid>https://matteo-esposito.github.io/project/project-euler/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java | M.Esposito</title>
-    <link>https://matteo-esposito.github.io/hugosite/tags/java/</link>
-      <atom:link href="https://matteo-esposito.github.io/hugosite/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://matteo-esposito.github.io/tags/java/</link>
+      <atom:link href="https://matteo-esposito.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <description>Java</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Matteo Esposito</copyright><lastBuildDate>Thu, 30 Jan 2020 20:45:52 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Java</title>
-      <link>https://matteo-esposito.github.io/hugosite/tags/java/</link>
+      <link>https://matteo-esposito.github.io/tags/java/</link>
     </image>
     
     <item>
       <title>Leetcode</title>
-      <link>https://matteo-esposito.github.io/hugosite/project/leetcode/</link>
+      <link>https://matteo-esposito.github.io/project/leetcode/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:52 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/hugosite/project/leetcode/</guid>
+      <guid>https://matteo-esposito.github.io/project/leetcode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project Euler</title>
-      <link>https://matteo-esposito.github.io/hugosite/project/project-euler/</link>
+      <link>https://matteo-esposito.github.io/project/project-euler/</link>
       <pubDate>Thu, 30 Jan 2020 20:33:18 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/hugosite/project/project-euler/</guid>
+      <guid>https://matteo-esposito.github.io/project/project-euler/</guid>
       <description></description>
     </item>
     

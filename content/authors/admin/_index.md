@@ -44,7 +44,7 @@ social:
   link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
-  link: mailto:matteoesposito97@gmail.com
+  link: mailto:ds.mesposito@gmail.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/matteo-esposito/

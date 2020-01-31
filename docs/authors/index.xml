@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | M.Esposito</title>
-    <link>https://matteo-esposito.github.io/authors/</link>
-      <atom:link href="https://matteo-esposito.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://matteo-esposito.github.io/hugosite/authors/</link>
+      <atom:link href="https://matteo-esposito.github.io/hugosite/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Matteo Esposito</copyright><lastBuildDate>Thu, 30 Jan 2020 20:45:52 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
-      <link>https://matteo-esposito.github.io/authors/</link>
+      <link>https://matteo-esposito.github.io/hugosite/authors/</link>
     </image>
     
     <item>
       <title>Matteo Esposito</title>
-      <link>https://matteo-esposito.github.io/authors/matteo-esposito/</link>
+      <link>https://matteo-esposito.github.io/hugosite/authors/matteo-esposito/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:52 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/authors/matteo-esposito/</guid>
+      <guid>https://matteo-esposito.github.io/hugosite/authors/matteo-esposito/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spyros Orfanos</title>
-      <link>https://matteo-esposito.github.io/authors/spyros-orfanos/</link>
+      <link>https://matteo-esposito.github.io/hugosite/authors/spyros-orfanos/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:23 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/authors/spyros-orfanos/</guid>
+      <guid>https://matteo-esposito.github.io/hugosite/authors/spyros-orfanos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>William Ngo</title>
-      <link>https://matteo-esposito.github.io/authors/william-ngo/</link>
+      <link>https://matteo-esposito.github.io/hugosite/authors/william-ngo/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:23 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/authors/william-ngo/</guid>
+      <guid>https://matteo-esposito.github.io/hugosite/authors/william-ngo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frederic Siino</title>
-      <link>https://matteo-esposito.github.io/authors/frederic-siino/</link>
+      <link>https://matteo-esposito.github.io/hugosite/authors/frederic-siino/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:08 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/authors/frederic-siino/</guid>
+      <guid>https://matteo-esposito.github.io/hugosite/authors/frederic-siino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haiqi Liang</title>
-      <link>https://matteo-esposito.github.io/authors/haiqi-liang/</link>
+      <link>https://matteo-esposito.github.io/hugosite/authors/haiqi-liang/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:08 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/authors/haiqi-liang/</guid>
+      <guid>https://matteo-esposito.github.io/hugosite/authors/haiqi-liang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tony Yuan</title>
-      <link>https://matteo-esposito.github.io/authors/tony-yuan/</link>
+      <link>https://matteo-esposito.github.io/hugosite/authors/tony-yuan/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:08 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/authors/tony-yuan/</guid>
+      <guid>https://matteo-esposito.github.io/hugosite/authors/tony-yuan/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://matteo-esposito.github.io/authors/admin/</link>
+      <link>https://matteo-esposito.github.io/hugosite/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://matteo-esposito.github.io/authors/admin/</guid>
+      <guid>https://matteo-esposito.github.io/hugosite/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m an undergrad currently studying actuarial mathematics and computer science. I have experience in insurance, working in actuarial and data science focused teams, acquired in my co-op internships during my bachelors.&lt;/p&gt;
 &lt;p&gt;I love running, all things tech and am a passionate python programmer.&lt;/p&gt;
 &lt;p&gt;Currently looking to pursue a MSc in computer science with a data science/machine learning focus.&lt;/p&gt;

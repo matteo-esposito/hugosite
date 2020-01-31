@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tony Yuan | M.Esposito</title>
-    <link>https://matteo-esposito.github.io/authors/tony-yuan/</link>
-      <atom:link href="https://matteo-esposito.github.io/authors/tony-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://matteo-esposito.github.io/hugosite/authors/tony-yuan/</link>
+      <atom:link href="https://matteo-esposito.github.io/hugosite/authors/tony-yuan/index.xml" rel="self" type="application/rss+xml" />
     <description>Tony Yuan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Matteo Esposito</copyright><lastBuildDate>Thu, 30 Jan 2020 20:45:08 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tony Yuan</title>
-      <link>https://matteo-esposito.github.io/authors/tony-yuan/</link>
+      <link>https://matteo-esposito.github.io/hugosite/authors/tony-yuan/</link>
     </image>
     
     <item>
       <title>Desjardins Datacup</title>
-      <link>https://matteo-esposito.github.io/project/desjardins-datacup/</link>
+      <link>https://matteo-esposito.github.io/hugosite/project/desjardins-datacup/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:08 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/project/desjardins-datacup/</guid>
+      <guid>https://matteo-esposito.github.io/hugosite/project/desjardins-datacup/</guid>
       <description></description>
     </item>
     

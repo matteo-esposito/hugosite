@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>William Ngo | M.Esposito</title>
-    <link>https://matteo-esposito.github.io/authors/william-ngo/</link>
-      <atom:link href="https://matteo-esposito.github.io/authors/william-ngo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://matteo-esposito.github.io/hugosite/authors/william-ngo/</link>
+      <atom:link href="https://matteo-esposito.github.io/hugosite/authors/william-ngo/index.xml" rel="self" type="application/rss+xml" />
     <description>William Ngo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Matteo Esposito</copyright><lastBuildDate>Thu, 30 Jan 2020 20:45:23 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>William Ngo</title>
-      <link>https://matteo-esposito.github.io/authors/william-ngo/</link>
+      <link>https://matteo-esposito.github.io/hugosite/authors/william-ngo/</link>
     </image>
     
     <item>
       <title>Gridworld Agent</title>
-      <link>https://matteo-esposito.github.io/project/gridworld-agent/</link>
+      <link>https://matteo-esposito.github.io/hugosite/project/gridworld-agent/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:23 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/project/gridworld-agent/</guid>
+      <guid>https://matteo-esposito.github.io/hugosite/project/gridworld-agent/</guid>
       <description></description>
     </item>
     

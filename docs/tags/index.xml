@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | M.Esposito</title>
-    <link>https://matteo-esposito.github.io/tags/</link>
-      <atom:link href="https://matteo-esposito.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://matteo-esposito.github.io/hugosite/tags/</link>
+      <atom:link href="https://matteo-esposito.github.io/hugosite/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Matteo Esposito</copyright><lastBuildDate>Thu, 30 Jan 2020 20:45:52 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
-      <link>https://matteo-esposito.github.io/tags/</link>
+      <link>https://matteo-esposito.github.io/hugosite/tags/</link>
     </image>
     
     <item>
       <title>Java</title>
-      <link>https://matteo-esposito.github.io/tags/java/</link>
+      <link>https://matteo-esposito.github.io/hugosite/tags/java/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:52 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/tags/java/</guid>
+      <guid>https://matteo-esposito.github.io/hugosite/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://matteo-esposito.github.io/tags/python/</link>
+      <link>https://matteo-esposito.github.io/hugosite/tags/python/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:52 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/tags/python/</guid>
+      <guid>https://matteo-esposito.github.io/hugosite/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://matteo-esposito.github.io/tags/r/</link>
+      <link>https://matteo-esposito.github.io/hugosite/tags/r/</link>
       <pubDate>Thu, 30 Jan 2020 20:45:23 -0500</pubDate>
-      <guid>https://matteo-esposito.github.io/tags/r/</guid>
+      <guid>https://matteo-esposito.github.io/hugosite/tags/r/</guid>
       <description></description>
     </item>
     

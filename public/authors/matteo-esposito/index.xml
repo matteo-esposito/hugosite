@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matteo Esposito | M.Esposito</title>
+    <link>/authors/matteo-esposito/</link>
+      <atom:link href="/authors/matteo-esposito/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matteo Esposito</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Matteo Esposito</copyright><lastBuildDate>Thu, 30 Jan 2020 20:45:52 -0500</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Matteo Esposito</title>
+      <link>/authors/matteo-esposito/</link>
+    </image>
+    
+    <item>
+      <title>Leetcode</title>
+      <link>/project/leetcode/</link>
+      <pubDate>Thu, 30 Jan 2020 20:45:52 -0500</pubDate>
+      <guid>/project/leetcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webscrapers</title>
+      <link>/project/webscrapers/</link>
+      <pubDate>Thu, 30 Jan 2020 20:45:36 -0500</pubDate>
+      <guid>/project/webscrapers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gridworld Agent</title>
+      <link>/project/gridworld-agent/</link>
+      <pubDate>Thu, 30 Jan 2020 20:45:23 -0500</pubDate>
+      <guid>/project/gridworld-agent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desjardins Datacup</title>
+      <link>/project/desjardins-datacup/</link>
+      <pubDate>Thu, 30 Jan 2020 20:45:08 -0500</pubDate>
+      <guid>/project/desjardins-datacup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moodle Doc Downloader</title>
+      <link>/project/moodle-doc-downloader/</link>
+      <pubDate>Thu, 30 Jan 2020 20:45:00 -0500</pubDate>
+      <guid>/project/moodle-doc-downloader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grade Fetcher</title>
+      <link>/project/grade-fetcher/</link>
+      <pubDate>Thu, 30 Jan 2020 20:44:51 -0500</pubDate>
+      <guid>/project/grade-fetcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Euler</title>
+      <link>/project/project-euler/</link>
+      <pubDate>Thu, 30 Jan 2020 20:33:18 -0500</pubDate>
+      <guid>/project/project-euler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

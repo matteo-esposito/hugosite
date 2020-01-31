@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | M.Esposito</title>
+    <link>/tags/python/</link>
+      <atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Matteo Esposito</copyright><lastBuildDate>Thu, 30 Jan 2020 20:45:52 -0500</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Python</title>
+      <link>/tags/python/</link>
+    </image>
+    
+    <item>
+      <title>Leetcode</title>
+      <link>/project/leetcode/</link>
+      <pubDate>Thu, 30 Jan 2020 20:45:52 -0500</pubDate>
+      <guid>/project/leetcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webscrapers</title>
+      <link>/project/webscrapers/</link>
+      <pubDate>Thu, 30 Jan 2020 20:45:36 -0500</pubDate>
+      <guid>/project/webscrapers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grade Fetcher</title>
+      <link>/project/grade-fetcher/</link>
+      <pubDate>Thu, 30 Jan 2020 20:44:51 -0500</pubDate>
+      <guid>/project/grade-fetcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Euler</title>
+      <link>/project/project-euler/</link>
+      <pubDate>Thu, 30 Jan 2020 20:33:18 -0500</pubDate>
+      <guid>/project/project-euler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

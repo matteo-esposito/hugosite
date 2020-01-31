@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | M.Esposito</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Matteo Esposito</copyright><lastBuildDate>Thu, 30 Jan 2020 20:45:52 -0500</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Matteo Esposito</title>
+      <link>/authors/matteo-esposito/</link>
+      <pubDate>Thu, 30 Jan 2020 20:45:52 -0500</pubDate>
+      <guid>/authors/matteo-esposito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spyros Orfanos</title>
+      <link>/authors/spyros-orfanos/</link>
+      <pubDate>Thu, 30 Jan 2020 20:45:23 -0500</pubDate>
+      <guid>/authors/spyros-orfanos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Ngo</title>
+      <link>/authors/william-ngo/</link>
+      <pubDate>Thu, 30 Jan 2020 20:45:23 -0500</pubDate>
+      <guid>/authors/william-ngo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frederic Siino</title>
+      <link>/authors/frederic-siino/</link>
+      <pubDate>Thu, 30 Jan 2020 20:45:08 -0500</pubDate>
+      <guid>/authors/frederic-siino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haiqi Liang</title>
+      <link>/authors/haiqi-liang/</link>
+      <pubDate>Thu, 30 Jan 2020 20:45:08 -0500</pubDate>
+      <guid>/authors/haiqi-liang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tony Yuan</title>
+      <link>/authors/tony-yuan/</link>
+      <pubDate>Thu, 30 Jan 2020 20:45:08 -0500</pubDate>
+      <guid>/authors/tony-yuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m an undergrad currently studying actuarial mathematics and computer science. I have experience in insurance, working in actuarial and data science focused teams, acquired in my co-op internships during my bachelors.&lt;/p&gt;
+&lt;p&gt;I love running, all things tech and am a passionate python programmer.&lt;/p&gt;
+&lt;p&gt;Currently looking to pursue a MSc in computer science with a data science/machine learning focus.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

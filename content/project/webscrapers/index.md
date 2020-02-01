@@ -21,16 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: "https://github.com/matteo-esposito/pyproj/tree/master/web-scrapers"
-url_pdf: ""
-url_slides: ""
-url_video: ""
+links:
+- name: Code
+  url: https://github.com/matteo-esposito/pyproj/tree/master/web-scrapers
+  icon_pack: fas
+  icon: code
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

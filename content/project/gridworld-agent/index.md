@@ -21,14 +21,14 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Code
+  url: https://github.com/matteo-esposito/uni/tree/master/3-reinforcement-learning/project/src
+  icon_pack: fas
+  icon: code
 
-url_code: "https://github.com/matteo-esposito/uni/tree/master/3-reinforcement-learning/project/src"
-url_pdf: "https://github.com/matteo-esposito/uni/blob/master/3-reinforcement-learning/project/report.pdf"
+url_code: ""
+url_pdf: ""
 url_slides: ""
 url_video: ""
 

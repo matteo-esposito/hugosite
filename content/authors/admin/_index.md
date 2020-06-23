@@ -10,29 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Actuarial Mathematics and Computer Science Undergraduate Student
+role: MILA Professional Masters Student
 
 # Organizations/Affiliations
 organizations:
-- name: Concordia University
-  url: "https://www.concordia.ca"
+- name: MILA
+  url: "https://mila.quebec/en/"
+- name: Université de Montreal
+  url: "https://diro.umontreal.ca/accueil/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Deep Learning
+- Pentesting
+- Cybersecurity
 
 education:
   courses:
-#   - course: MSc (Professional) in Machine Learning
-#     institution: MILA (Montreal Institute of Learning Algorithms)
-#     year: 2099
-  - course: BSc Actuarial Mathematics, minor Computer Science
+  - course: MSc Computer Science in Machine Learning
+    institution: MILA (Montreal Institute of Learning Algorithms)
+    year: 2020-Present
+  - course: BSc Actuarial Mathematics with Minor in Computer Science (Graduate with Distinction)
     institution: Concordia University
-    year: 2020
+    year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,10 +43,10 @@ education:
 social:
 - icon: file-pdf
   icon_pack: fas
-  link: files/cv.pdf
+  link: files/ecv.pdf
 - icon: envelope
   icon_pack: fas
-  link: mailto:ds.mesposito@gmail.com
+  link: mailto:matteo.esposito@umontreal.ca
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/matteo-esposito/
@@ -59,7 +61,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ds.mesposito@gmail.com"
+email: "matteo.esposito@umontreal.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,8 +70,8 @@ email: "ds.mesposito@gmail.com"
 # - Visitors
 ---
 
-I'm an undergrad currently studying actuarial mathematics and computer science. I have experience in insurance, working in actuarial and data science focused teams, acquired in my co-op internships during my bachelors.
+Welcome! 
 
-I love running, all things tech and am a passionate python programmer. 
+My name is Matteo (as you can tell from the site headers) and I'm a masters student at the Montreal Institute of Learning Algorithms at the University of Montreal. My professional experience is mainly in the insurance industry, where I worked in actuarial and data science focused teams during my co-op internships as part of my bachelors.
 
-Currently looking to pursue a MSc in computer science with a data science/machine learning focus.
+I love running and cycling (see my Strava above), all things tech and am a passionate python programmer always looking to sharpen my skills. 

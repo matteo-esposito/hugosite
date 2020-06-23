@@ -18,13 +18,13 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "numpy, pandas, bs4, selenium, scikit-learn"
+  description = "bs4, experta, geopandas, numpy, pandas, scikit-learn, selenium"
 
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "Data structures, algorithms, threads"
+  description = "Data structures, algorithms, multithreading"
   
 [[feature]]
   icon = "r-project"
@@ -44,4 +44,9 @@ subtitle = ""
   name = "Databases"
   description = "SQL"  
   
+[[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "Bash"
+  description = "General usage, server interaction, basic pentesting" 
 +++

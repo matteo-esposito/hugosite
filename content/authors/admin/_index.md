@@ -72,6 +72,6 @@ email: "matteo.esposito@umontreal.ca"
 
 Welcome! 
 
-My name is Matteo (as you can tell from the site headers) and I'm a masters student at the Montreal Institute of Learning Algorithms at the University of Montreal. My professional experience is mainly in the insurance industry, where I worked in actuarial and data science focused teams during my co-op internships as part of my bachelors.
+My name is Matteo and I'm a masters student at the Montreal Institute of Learning Algorithms at the University of Montreal. My professional experience is mainly in the insurance industry, where I worked in actuarial and data science focused teams during my co-op internships as part of my bachelors.
 
 I love running and cycling (see my Strava above), all things tech and am a passionate python programmer always looking to sharpen my skills. 

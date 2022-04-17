@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.intact.ca/qc/en/personal-insurance.html"
   location = "Montreal"
   date_start = "2020-05-01"
-  date_end = "2020-09-01"
+  date_end = "Present"
   description = """
   New graduate position.
   """

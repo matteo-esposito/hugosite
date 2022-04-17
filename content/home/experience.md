@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2020-04-01"
   description = """
-  Full-time (May 2019 - August 2019), Part-time (September 2019 - Present)
+  Full-time (May 2019 - August 2019), Part-time (September 2019 - April 2020)
   """
 
 [[experience]]
